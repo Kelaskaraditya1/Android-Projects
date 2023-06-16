@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="text1">Welcome to Tic Tac Toe By Aditya</string>
+    <string name="text2">X\'s Turn - Tap to Play</string>
+</resources>
