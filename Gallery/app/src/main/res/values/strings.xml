@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="text1">Gallery App</string>
+    <string name="button1">Previous image</string>
+    <string name="button2">Next Image</string>
+    <string name="string1">You are viewing to 1st Image</string>
+</resources>
