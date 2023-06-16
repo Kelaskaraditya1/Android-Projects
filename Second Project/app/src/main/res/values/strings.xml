@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="text1">Aditya\'s 2nd Project</string>
+    <string name="enter">Enter</string>
+    <string name="text2">Please enter the name of the User</string>
+    <string name="data">Enter Your name</string>
+    <string name="add">Add Data</string>
+    <string name="update">Update Data</string>
+    <string name="delete">Delete Data</string>
+    <string name="text3">Incognito mode</string>
+    <string name="switch1">Turn on</string>
+</resources>
